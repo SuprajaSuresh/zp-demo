@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+.container {
+	margin: 5%;
+}
+
+.country {
+	color:#4169E1;
+}
+
+.country-price-points {
+	float: left;
+	margin: 20px;
+}
